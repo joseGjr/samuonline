@@ -1,70 +1,21 @@
-# Getting Started with Create React App
+Projeto SAMU-Mob: Inovação e Acessibilidade na Chamada de Emergência
+No cenário atual, a tecnologia desempenha um papel crucial em diversas áreas, e a saúde não é exceção. O Projeto SAMU-Mob surge como uma proposta inovadora que visa melhorar a acessibilidade e eficiência no processo de chamada de emergência, proporcionando uma aplicação ágil e intuitiva para usuários de todas as habilidades.
+ <img width="40px" height="40px" src="./telalogin.png">
+Objetivo e Finalidade:
+O principal objetivo do Projeto SAMU-Mob é propor uma solução tecnológica que simplifique o acionamento do Serviço de Atendimento Móvel de Urgência (SAMU) de forma acessível a todos. A aplicação busca eliminar barreiras para pessoas com diferentes níveis de habilidade, promovendo a inclusão e garantindo que qualquer cidadão possa solicitar ajuda em situações críticas.
+<img  width="40px" height="40px"  src="./regulationSamu.png" >
+Tecnologias Utilizadas:
+HTML (Hypertext Markup Language): Uma estrutura fundamental da aplicação foi construída com HTML, garantindo uma base sólida para a apresentação de conteúdo na web.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+CSS (Cascading Style Sheets): A estilização e o design responsivo da aplicação desenvolvida com CSS, proporcionando uma experiência de usuário agradável e acessível em diferentes dispositivos e tamanhos de tela.
 
-## Available Scripts
+JavaScript: A lógica dinâmica e interativa do SAMU-Mob foi renovada utilizando JavaScript. Isso possibilita uma resposta em tempo real às ações do usuário, tornando a aplicação mais fluida e eficiente.
 
-In the project directory, you can run:
+React: O framework React foi escolhido para a construção da interface do usuário (UI), permitindo a criação de componentes reutilizáveis ​​e a atualização eficiente da interface com base nas interações do usuário. Isso contribui para uma experiência mais intuitiva e responsiva.
 
-### `npm start`
+Firebase: Para a gestão de dados em tempo real e o armazenamento seguro das informações dos usuários, o Firebase, plataforma de desenvolvimento de aplicativos do Google, foi integrado ao SAMU-Mob. Isso possibilita uma comunicação eficaz entre a aplicação e os serviços de emergência.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+SpeechRecognition: A integração do SpeechRecognition permite que os usuários acionem o SAMU-Mob por meio do reconhecimento de voz, facilitando especialmente aqueles com limitações motoras. Essa funcionalidade amplia a acessibilidade, permitindo chamadas de emergência de forma rápida e eficaz.
+ <img width="40px" height="40px"  src="./speechrecognationfuncio.png" >
+VLibras: A inclusão da VLibras (Língua Brasileira de Sinais Virtual) na aplicação garante acessibilidade para usuários surdos, proporcionando uma comunicação eficaz em situações de emergência. Isso é fundamental para garantir que a aplicação atenda a todos, independentemente das habilidades auditivas.
+<img width="40px" height="40px"  src="./vlibras>
