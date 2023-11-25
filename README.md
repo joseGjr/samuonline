@@ -43,4 +43,3 @@ SpeechRecognition: A integração do SpeechRecognition permite que os usuários 
 VLibras: A inclusão da VLibras (Língua Brasileira de Sinais Virtual) na aplicação garante acessibilidade para usuários surdos, proporcionando uma comunicação eficaz em situações de emergência. Isso é fundamental para garantir que a aplicação atenda a todos, independentemente das habilidades auditivas.
 
 
->>>>>>> 988951a72c78260428793a23d5c14acec43c6ef2
