@@ -1,13 +1,57 @@
+<h4 align="center">
+  <img src="./img/Captura de tela de 2022-01-31 20-55-47.png">
+</h4>
 
-# Projeto SAMU-Mob: Inovação e Acessibilidade na Chamada de Emergência
+<h1 align="center">
+    🚀 SAMU-MOB
+</h1>
+
+<p align="# Projeto SAMU-Mob: Inovação e Acessibilidade na Chamada de Emergência
 
 No cenário atual, a tecnologia desempenha um papel crucial em diversas áreas, e a saúde não é exceção. O Projeto SAMU-Mob surge como uma proposta inovadora que visa melhorar a acessibilidade e eficiência no processo de chamada de emergência, proporcionando uma aplicação ágil e intuitiva para usuários de todas as habilidades.
 
 ## Objetivo e Finalidade:
 
-O principal objetivo do Projeto SAMU-Mob é propor uma solução tecnológica que simplifique o acionamento do Serviço de Atendimento Móvel de Urgência (SAMU) de forma acessível a todos. A aplicação busca eliminar barreiras para pessoas com diferentes níveis de habilidade, promovendo a inclusão e garantindo que qualquer cidadão possa solicitar ajuda em situações críticas.
+O principal objetivo do Projeto SAMU-Mob é propor uma solução tecnológica que simplifique o acionamento do Serviço de Atendimento Móvel de Urgência (SAMU) de forma acessível a todos. A aplicação busca eliminar barreiras para pessoas com diferentes níveis de habilidade, promovendo a inclusão e garantindo que qualquer cidadão possa solicitar ajuda em situações críticas.</p>
 
-### Tecnologias Utilizadas:
+
+
+
+<h3 align="center"> 
+🚧  Em Desenvolvimento  🚧
+</h3>
+
+
+
+### 💻 Projeto
+Projeto desenvolvido para simulação da protótipação da aplicação proposta .
+
+### ✅ Demonstração
+
+
+### ⚙ Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/)  
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+### 📗 Rodando a Aplicação (web)
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/joseGjr/netClone.git
+
+### 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- JAVA SCRIPT
+- React
+- Vlibras
+- Firenase
+- SpeechRecognation
 
 HTML (Hypertext Markup Language): A estrutura fundamental da aplicação foi construída com HTML, garantindo uma base sólida para a apresentação de conteúdo na web.
 
@@ -23,4 +67,6 @@ SpeechRecognition: A integração do SpeechRecognition permite que os usuários 
 
 VLibras: A inclusão da VLibras (Língua Brasileira de Sinais Virtual) na aplicação garante acessibilidade para usuários surdos, proporcionando uma comunicação eficaz em situações de emergência. Isso é fundamental para garantir que a aplicação atenda a todos, independentemente das habilidades auditivas.
 
+### 📕 Biblioteca
 
+-Styled-components
