@@ -1,5 +1,6 @@
 <h4 align="center">
-  <img src="./img/Captura de tela de 2022-01-31 20-55-47.png">
+     <img src="./Samu-logo.png">
+
 </h4>
 
 <h1 align="center">
