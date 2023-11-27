@@ -1,5 +1,5 @@
 <h4 align="center">
-     <img src="./Samu-logo.png">
+    <img src="../src/assets/Samu-logo.png" alt="">
 
 </h4>
 
@@ -40,7 +40,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/joseGjr/netClone.git
+$ git clone https://github.com/joseGjr/samuonline.git
 
 ### 🚀 Tecnologias
 
