@@ -1,35 +1,58 @@
-<<<<<<< HEAD
-Projeto SAMU-Mob: Inovação e Acessibilidade na Chamada de Emergência
-No cenário atual, a tecnologia desempenha um papel crucial em diversas áreas, e a saúde não é exceção. O Projeto SAMU-Mob surge como uma proposta inovadora que visa melhorar a acessibilidade e eficiência no processo de chamada de emergência, proporcionando uma aplicação ágil e intuitiva para usuários de todas as habilidades.
- <img width="40px" height="40px" src="./telalogin.png">
-Objetivo e Finalidade:
-O principal objetivo do Projeto SAMU-Mob é propor uma solução tecnológica que simplifique o acionamento do Serviço de Atendimento Móvel de Urgência (SAMU) de forma acessível a todos. A aplicação busca eliminar barreiras para pessoas com diferentes níveis de habilidade, promovendo a inclusão e garantindo que qualquer cidadão possa solicitar ajuda em situações críticas.
-<img  width="40px" height="40px"  src="./regulationSamu.png" >
-Tecnologias Utilizadas:
-HTML (Hypertext Markup Language): Uma estrutura fundamental da aplicação foi construída com HTML, garantindo uma base sólida para a apresentação de conteúdo na web.
+<h4 align="center">
+     <img src="./Samu-logo.png">
 
-CSS (Cascading Style Sheets): A estilização e o design responsivo da aplicação desenvolvida com CSS, proporcionando uma experiência de usuário agradável e acessível em diferentes dispositivos e tamanhos de tela.
+</h4>
 
-JavaScript: A lógica dinâmica e interativa do SAMU-Mob foi renovada utilizando JavaScript. Isso possibilita uma resposta em tempo real às ações do usuário, tornando a aplicação mais fluida e eficiente.
+<h1 align="center">
+    🚀 SAMU-MOB
+</h1>
 
-React: O framework React foi escolhido para a construção da interface do usuário (UI), permitindo a criação de componentes reutilizáveis ​​e a atualização eficiente da interface com base nas interações do usuário. Isso contribui para uma experiência mais intuitiva e responsiva.
-
-Firebase: Para a gestão de dados em tempo real e o armazenamento seguro das informações dos usuários, o Firebase, plataforma de desenvolvimento de aplicativos do Google, foi integrado ao SAMU-Mob. Isso possibilita uma comunicação eficaz entre a aplicação e os serviços de emergência.
-
-SpeechRecognition: A integração do SpeechRecognition permite que os usuários acionem o SAMU-Mob por meio do reconhecimento de voz, facilitando especialmente aqueles com limitações motoras. Essa funcionalidade amplia a acessibilidade, permitindo chamadas de emergência de forma rápida e eficaz.
- <img width="40px" height="40px"  src="./speechrecognationfuncio.png" >
-VLibras: A inclusão da VLibras (Língua Brasileira de Sinais Virtual) na aplicação garante acessibilidade para usuários surdos, proporcionando uma comunicação eficaz em situações de emergência. Isso é fundamental para garantir que a aplicação atenda a todos, independentemente das habilidades auditivas.
-<img width="40px" height="40px"  src="./vlibras>
-=======
-# Projeto SAMU-Mob: Inovação e Acessibilidade na Chamada de Emergência
+<p align="# Projeto SAMU-Mob: Inovação e Acessibilidade na Chamada de Emergência
 
 No cenário atual, a tecnologia desempenha um papel crucial em diversas áreas, e a saúde não é exceção. O Projeto SAMU-Mob surge como uma proposta inovadora que visa melhorar a acessibilidade e eficiência no processo de chamada de emergência, proporcionando uma aplicação ágil e intuitiva para usuários de todas as habilidades.
 
 ## Objetivo e Finalidade:
 
-O principal objetivo do Projeto SAMU-Mob é propor uma solução tecnológica que simplifique o acionamento do Serviço de Atendimento Móvel de Urgência (SAMU) de forma acessível a todos. A aplicação busca eliminar barreiras para pessoas com diferentes níveis de habilidade, promovendo a inclusão e garantindo que qualquer cidadão possa solicitar ajuda em situações críticas.
+O principal objetivo do Projeto SAMU-Mob é propor uma solução tecnológica que simplifique o acionamento do Serviço de Atendimento Móvel de Urgência (SAMU) de forma acessível a todos. A aplicação busca eliminar barreiras para pessoas com diferentes níveis de habilidade, promovendo a inclusão e garantindo que qualquer cidadão possa solicitar ajuda em situações críticas.</p>
 
-### Tecnologias Utilizadas:
+
+
+
+<h3 align="center"> 
+🚧  Em Desenvolvimento  🚧
+</h3>
+
+
+
+### 💻 Projeto
+Projeto desenvolvido para simulação da protótipação da aplicação proposta .
+
+### ✅ Demonstração
+
+
+### ⚙ Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/)  
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+### 📗 Rodando a Aplicação (web)
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/joseGjr/netClone.git
+
+### 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- JAVA SCRIPT
+- React
+- Vlibras
+- Firenase
+- SpeechRecognation
 
 HTML (Hypertext Markup Language): A estrutura fundamental da aplicação foi construída com HTML, garantindo uma base sólida para a apresentação de conteúdo na web.
 
@@ -45,5 +68,6 @@ SpeechRecognition: A integração do SpeechRecognition permite que os usuários 
 
 VLibras: A inclusão da VLibras (Língua Brasileira de Sinais Virtual) na aplicação garante acessibilidade para usuários surdos, proporcionando uma comunicação eficaz em situações de emergência. Isso é fundamental para garantir que a aplicação atenda a todos, independentemente das habilidades auditivas.
 
+### 📕 Biblioteca
 
->>>>>>> 988951a72c78260428793a23d5c14acec43c6ef2
+-Styled-components
