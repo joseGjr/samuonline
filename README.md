@@ -1,5 +1,5 @@
 <h4 align="center">
-    <img src="../src/assets/Samu-logo.png" alt="">
+    <img src="src/assets/Samu-logo.png" alt="">
 
 </h4>
 
@@ -28,7 +28,10 @@ O principal objetivo do Projeto SAMU-Mob é propor uma solução tecnológica qu
 Projeto desenvolvido para simulação da protótipação da aplicação proposta .
 
 ### ✅ Demonstração
+<h4 align="center">
+    <img src="src/assets/ezgif.com-video-to-gif.gif"" alt="">
 
+</h4>
 
 ### ⚙ Pré-requisitos
 
@@ -51,7 +54,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JAVA SCRIPT
 - React
 - Vlibras
-- Firenase
+- Firebase
 - SpeechRecognation
 
 HTML (Hypertext Markup Language): A estrutura fundamental da aplicação foi construída com HTML, garantindo uma base sólida para a apresentação de conteúdo na web.
