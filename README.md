@@ -30,7 +30,7 @@ promovendo a inclusão e garantindo que qualquer cidadão possa solicitar ajuda 
 
 
 ### 💻 Projeto
-Projeto desenvolvido para simulação da protótipação da aplicação proposta .
+Projeto em desenvolvido para simulação da protótipação da aplicação proposta, ao curso de sistema de informação .
 
 ### ✅ Demonstração
 <h4 align="center">
